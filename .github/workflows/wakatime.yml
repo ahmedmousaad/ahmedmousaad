@@ -19,4 +19,3 @@ jobs:
           SHOW_PROJECTS: "true"
           SHOW_LANGUAGE: "true"
           SHOW_EDITORS: "true"
-          SHOW_TIME: "true"
