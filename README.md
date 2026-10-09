@@ -5,9 +5,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 125 Bytes Used in GitHub's Storage 
+> 📦 146 Bytes Used in GitHub's Storage 
  > 
-> 🏆 33 Contributions in the Year 2026
+> 🏆 34 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,19 +42,21 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Python                   6 hrs 37 mins       █████████████████████████   99.91 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Python                   8 hrs 53 mins       █████████████████████████   99.72 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 38 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 55 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-epoxy-site               3 hrs 36 mins       ██████████████░░░░░░░░░░░   54.47 % 
-SignlanguageProject      2 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   35.57 % 
-Unknown Project          39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+epoxy-site               3 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   40.52 % 
+SignlanguageProject      3 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   37.13 % 
+Unknown Project          1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+redflag                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 💻 Operating System: 
-Windows                  6 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -78,6 +80,6 @@ Java                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahmedmousaad/ahmedmousaad/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 16:59:35 UTC
+ Last Updated on 09/10/2026 05:13:13 UTC
 <!--END_SECTION:waka-->
 ![WakaTime Stats](https://wakatime.com/share/@ea5214ef-009a-4cd0-a30b-358ee4ad869d/91d4ad06-ad26-48dd-a102-d559bb2ab2f8.svg)
