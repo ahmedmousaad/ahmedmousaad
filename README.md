@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -42,21 +42,21 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Python                   8 hrs 53 mins       █████████████████████████   99.72 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Python                   7 hrs 51 mins       █████████████████████████   99.68 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 55 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 52 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-epoxy-site               3 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   40.52 % 
-SignlanguageProject      3 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   37.13 % 
-Unknown Project          1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
-redflag                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+SignlanguageProject      3 hrs 18 mins       ███████████░░░░░░░░░░░░░░   42.05 % 
+Unknown Project          2 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   28.44 % 
+epoxy-site               2 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+redflag                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 💻 Operating System: 
-Windows                  8 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -80,6 +80,6 @@ Java                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahmedmousaad/ahmedmousaad/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 05:13:13 UTC
+ Last Updated on 10/10/2026 04:58:32 UTC
 <!--END_SECTION:waka-->
 ![WakaTime Stats](https://wakatime.com/share/@ea5214ef-009a-4cd0-a30b-358ee4ad869d/91d4ad06-ad26-48dd-a102-d559bb2ab2f8.svg)
