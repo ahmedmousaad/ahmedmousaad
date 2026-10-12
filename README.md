@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 148 Bytes Used in GitHub's Storage 
+> 📦 164 Bytes Used in GitHub's Storage 
  > 
 > 🏆 35 Contributions in the Year 2026
  > 
@@ -42,23 +42,22 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Python                   7 hrs 8 mins        ████████████████████████░   96.70 % 
-Java                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Python                   6 hrs 27 mins       ████████████████████████░   96.36 % 
+Java                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 23 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 41 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SignlanguageProject      3 hrs 18 mins       ███████████░░░░░░░░░░░░░░   44.81 % 
-Unknown Project          3 hrs 1 min         ██████████░░░░░░░░░░░░░░░   40.84 % 
-epoxy-site               41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-javaprg                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-redflag                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+SignlanguageProject      3 hrs 18 mins       ████████████░░░░░░░░░░░░░   49.44 % 
+Unknown Project          3 hrs 1 min         ███████████░░░░░░░░░░░░░░   45.06 % 
+javaprg                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+redflag                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 💻 Operating System: 
-Windows                  7 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -82,6 +81,6 @@ Java                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahmedmousaad/ahmedmousaad/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 04:46:12 UTC
+ Last Updated on 12/10/2026 05:01:41 UTC
 <!--END_SECTION:waka-->
 ![WakaTime Stats](https://wakatime.com/share/@ea5214ef-009a-4cd0-a30b-358ee4ad869d/91d4ad06-ad26-48dd-a102-d559bb2ab2f8.svg)
