@@ -5,7 +5,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 164 Bytes Used in GitHub's Storage 
+> 📦 165 Bytes Used in GitHub's Storage 
  > 
 > 🏆 35 Contributions in the Year 2026
  > 
@@ -42,22 +42,21 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Python                   6 hrs 27 mins       ████████████████████████░   96.36 % 
-Java                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Python                   4 hrs 35 mins       ████████████████████████░   95.07 % 
+Java                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 41 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SignlanguageProject      3 hrs 18 mins       ████████████░░░░░░░░░░░░░   49.44 % 
-Unknown Project          3 hrs 1 min         ███████████░░░░░░░░░░░░░░   45.06 % 
-javaprg                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-redflag                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Unknown Project          3 hrs 1 min         ████████████████░░░░░░░░░   62.56 % 
+SignlanguageProject      1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   29.81 % 
+javaprg                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+redflag                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 
 💻 Operating System: 
-Windows                  6 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -81,6 +80,6 @@ Java                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahmedmousaad/ahmedmousaad/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 06:01:47 UTC
+ Last Updated on 14/10/2026 04:05:04 UTC
 <!--END_SECTION:waka-->
 ![WakaTime Stats](https://wakatime.com/share/@ea5214ef-009a-4cd0-a30b-358ee4ad869d/91d4ad06-ad26-48dd-a102-d559bb2ab2f8.svg)
