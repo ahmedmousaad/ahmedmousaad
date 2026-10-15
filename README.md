@@ -42,21 +42,21 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Python                   4 hrs 35 mins       ████████████████████████░   95.07 % 
-Java                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Python                   3 hrs 26 mins       ███████████████████████░░   93.53 % 
+Java                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 49 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 1 min         ████████████████░░░░░░░░░   62.56 % 
-SignlanguageProject      1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   29.81 % 
-javaprg                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-redflag                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Unknown Project          2 hrs 21 mins       ████████████████░░░░░░░░░   64.12 % 
+SignlanguageProject      57 mins             ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+javaprg                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+redflag                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 
 💻 Operating System: 
-Windows                  4 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -80,6 +80,6 @@ Java                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahmedmousaad/ahmedmousaad/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 04:05:04 UTC
+ Last Updated on 15/10/2026 03:47:32 UTC
 <!--END_SECTION:waka-->
 ![WakaTime Stats](https://wakatime.com/share/@ea5214ef-009a-4cd0-a30b-358ee4ad869d/91d4ad06-ad26-48dd-a102-d559bb2ab2f8.svg)
