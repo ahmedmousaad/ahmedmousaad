@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 167 Bytes Used in GitHub's Storage 
+> 📦 182 Bytes Used in GitHub's Storage 
  > 
 > 🏆 36 Contributions in the Year 2026
  > 
@@ -42,18 +42,18 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Python                   2 hrs 27 mins       ███████████████████████░░   91.85 % 
-Java                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Python                   2 hrs 3 mins        ███████████████████████░░   90.38 % 
+Java                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 41 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-javaprg                  1 hr 29 mins        ██████████████░░░░░░░░░░░   55.74 % 
-Unknown Project          1 hr 11 mins        ███████████░░░░░░░░░░░░░░   44.26 % 
+javaprg                  1 hr 29 mins        ████████████████░░░░░░░░░   65.77 % 
+Unknown Project          46 mins             █████████░░░░░░░░░░░░░░░░   34.23 % 
 
 💻 Operating System: 
-Windows                  2 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -77,6 +77,6 @@ Java                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahmedmousaad/ahmedmousaad/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2026 03:43:23 UTC
+ Last Updated on 17/10/2026 03:32:56 UTC
 <!--END_SECTION:waka-->
 ![WakaTime Stats](https://wakatime.com/share/@ea5214ef-009a-4cd0-a30b-358ee4ad869d/91d4ad06-ad26-48dd-a102-d559bb2ab2f8.svg)
