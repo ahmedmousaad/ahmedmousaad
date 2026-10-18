@@ -5,7 +5,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 182 Bytes Used in GitHub's Storage 
+> 📦 183 Bytes Used in GitHub's Storage 
  > 
 > 🏆 36 Contributions in the Year 2026
  > 
@@ -42,18 +42,16 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-Python                   2 hrs 3 mins        ███████████████████████░░   90.38 % 
-Java                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Python                   1 hr 17 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 16 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 17 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-javaprg                  1 hr 29 mins        ████████████████░░░░░░░░░   65.77 % 
-Unknown Project          46 mins             █████████░░░░░░░░░░░░░░░░   34.23 % 
+javaprg                  1 hr 17 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 17 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -77,6 +75,6 @@ Java                     1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ahmedmousaad/ahmedmousaad/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 03:32:56 UTC
+ Last Updated on 18/10/2026 03:39:57 UTC
 <!--END_SECTION:waka-->
 ![WakaTime Stats](https://wakatime.com/share/@ea5214ef-009a-4cd0-a30b-358ee4ad869d/91d4ad06-ad26-48dd-a102-d559bb2ab2f8.svg)
